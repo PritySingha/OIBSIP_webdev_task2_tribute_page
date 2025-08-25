@@ -1,7 +1,7 @@
 # 🏛️ Task 2 – Tribute Page
 
-This repository contains my submission for **Task 2** of the **Oasis Infobyte Web Development & Design Internship (Level 2)**. The project is a tribute page dedicated to **Dr. B. R. Ambedkar**, designed using HTML and CSS with a focus on clean layout and informative content.
-
+A clean and structured tribute page built using HTML and CSS.  
+This project honors the life and legacy of Dr. B. R. Ambedkar, a visionary leader and social reformer.
 ---
 
 ## ✨ Features
@@ -9,7 +9,7 @@ This repository contains my submission for **Task 2** of the **Oasis Infobyte We
 - Structured layout with header, biography, and achievements  
 - Semantic HTML tags for accessibility  
 - Custom fonts and styling  
-- Responsive image and text sections  
+- Image and text sections  
 - Clean and readable design
 
 ---
@@ -30,18 +30,6 @@ OIBSIP_webdev_task2_tribute_page/
 
 ---
 
-## 🔗 GitHub Repository
-
-[https://github.com/PritySingha/OIBSIP_webdev_task2_tribute_page](https://github.com/PritySingha/OIBSIP_webdev_task2_tribute_page)
-
----
-
-## 📢 LinkedIn Post
-
-I’ve shared my experience and demo on LinkedIn: [LinkedIn Post Link]
-
----
-
 ## 📌 Outcome
 
 This task helped me practice semantic HTML, layout design, and visual presentation. It also improved my ability to organize content meaningfully and present it professionally.
@@ -49,3 +37,4 @@ This task helped me practice semantic HTML, layout design, and visual presentati
 ---
 
 Made with 💻 and 💖 by **Prity Singha**
+
