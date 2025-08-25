@@ -1,4 +1,4 @@
-# 🏛️ Task 2 – Tribute Page
+# 🏛️ Tribute Page
 
 A clean and structured tribute page built using HTML and CSS.  
 This project honors the life and legacy of Dr. B. R. Ambedkar, a visionary leader and social reformer.
@@ -37,4 +37,5 @@ This task helped me practice semantic HTML, layout design, and visual presentati
 ---
 
 Made with 💻 and 💖 by **Prity Singha**
+
 
