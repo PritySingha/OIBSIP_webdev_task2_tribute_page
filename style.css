@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #000;
+  color: #fff;
+  line-height: 1.6;
+}
+
+/* Header */
+.hero {
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.hero h1 {
+  font-size: 3em;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  font-size: 1.2em;
+  color: #ccc;
+}
+
+.play-btn {
+  font-size: 2em;
+  margin-top: 20px;
+  cursor: pointer;
+  color: #1e90ff;
+}
+
+/* Quote */
+.quote {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 40px 20px;
+  background: #111;
+}
+
+.quote p {
+  max-width: 40%;
+  font-size: 1.5em;
+  font-style: italic;
+}
+
+.quote img {
+  width: 300px;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.5);
+}
+
+/* Biography */
+.bio {
+  padding: 40px 20px;
+  text-align: center;
+}
+
+.bio h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+  color: #1e90ff;
+}
+
+.bio p {
+  max-width: 800px;
+  margin: 10px auto;
+  text-align: justify;
+  color: #ddd;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  padding: 20px;
+  background: #111;
+  margin-top: 20px;
+  color: #aaa;
+}
